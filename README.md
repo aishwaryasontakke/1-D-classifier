@@ -7,4 +7,4 @@ This program performs the following tasks on data consisting of age and height o
 
 Otsu’s method of one dimensional clustering is used to binarize the data. The following graph gives the point showing the best threshold value i.e. the value used to segment the data into two clusters.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![](https://github.com/aishwaryasontakke/1-D-classifier/blob/master/Mixed%20variance%20vs%20Age.png?raw=true)
